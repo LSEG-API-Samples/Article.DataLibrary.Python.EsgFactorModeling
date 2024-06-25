@@ -1,0 +1,8 @@
+pandas==2.1.4
+numpy==1.25.0
+seaborn==0.13.2
+matplotlib==3.8.0
+matplotlib-inline==0.1.6
+refinitiv-data==1.6.0
+scikit-learn==1.4.2
+scipy==1.9.3
